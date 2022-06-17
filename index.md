@@ -5,7 +5,7 @@ This is a robot that can move in any direction without turning, which is done th
 |:--:|:--:|:--:|:--:|
 | Tom Yuan | Troy High | Computer Science | Incoming Junior |
 
-![headstoneimage](https://user-images.githubusercontent.com/80085373/174336734-d30c865d-36aa-47b0-89e3-2164e1ca4248.png)
+![image](https://user-images.githubusercontent.com/80085373/174336734-d30c865d-36aa-47b0-89e3-2164e1ca4248.png)
 
 # Starter Project
 My starter project is a box with a lever attached. When the lever is flipped on, the box will automatically flip it back off using a mechanism.
