@@ -1,11 +1,11 @@
-﻿# Project Name/Title Goes Here
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
+﻿# Mecanum Robot
+This is a robot that can move in any direction without turning, which is done through the use of wheels with rollers attached to its circumference. By attaching these rollers at a 45 degrees angle, it is able to exert forces sideways when moving forward or backward.
 
-| **Engineer** | **School** | **Area of Interest** | **Grade** |
+| Tom Yuan | Troy High | Computer Science | Incoming Junior |
 |:--:|:--:|:--:|:--:|
 | Firstname Lastname | Current Highschool | Electrical Engineering | Incoming Senior
 
-![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
+![Headstone Image](![image](![image](https://user-images.githubusercontent.com/80085373/174335542-b26d67fc-24c5-489a-a1cc-7e24a80f6b1f.png))
   
 # Final Milestone
 My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
