@@ -5,14 +5,12 @@ This is a robot that can move in any direction without turning, which is done th
 |:--:|:--:|:--:|:--:|
 | Tom Yuan | Troy High | Computer Science | Incoming Junior |
 
-![image](https://user-images.githubusercontent.com/80085373/174336734-d30c865d-36aa-47b0-89e3-2164e1ca4248.png ) width="400" 
-     height="500"
+![image](https://user-images.githubusercontent.com/80085373/174336734-d30c865d-36aa-47b0-89e3-2164e1ca4248.png ) 
 
 # Starter Project
 My starter project is a box with a lever attached. When the lever is flipped on, the box will automatically flip it back off using a mechanism.
 
-[![Starter Project](![image](https://user-images.githubusercontent.com/80085373/174338413-b6079e93-dc2b-40f9-bcd6-a03870cb094c.png)
- )](https://youtu.be/0fxMNs8Zm_U "Starter Project"){:target="_blank" rel="noopener"}
+[![Starter Project](![image](https://user-images.githubusercontent.com/80085373/174340521-eef19743-a35a-461f-a1af-dc7626fc48d0.png) )](https://youtu.be/0fxMNs8Zm_U) "Starter Project"){:target="_blank" rel="noopener"}
 
 # First Milestone
 My first milestone was setting up and hooking up the Raspberry Pi and all the necessary components onto my tv. The heatsinks, the sd card, and the controller were all added to ensure that the Raspberry Pi was working. Instead of the Raspberry Pi Os software, I had to first download a different software called Retro Pie. With Retro Pie, I needed to download an Imager for Raspberry Pi. Raspberry Pi Imager automatically downloads a list of the latest versions of Raspbian supported by the Raspberry Pi. Raspbian is the typical Raspberry Pi Os software, the one I needed on the Raspberry Pi was Retro Pi. With the included SD card, I plugged in the SD into my computer and launched the Imager. The imager allowed me to set the Operating System to Retro Pi instead of Raspbian onto the SD card. With the OS imaged onto the SD, I plugged the SD card back into the Raspberry Pi and rebooted the system and Retro Bi booted up.
