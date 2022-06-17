@@ -10,8 +10,7 @@ This is a robot that can move in any direction without turning, which is done th
 # Starter Project
 My starter project is a box with a lever attached. When the lever is flipped on, the box will automatically flip it back off using a mechanism.
 
-[![First Milestone](!(https://user-images.githubusercontent.com/80085373/174337797-19649797-2ddb-441b-83e3-9a7bb2fe7db5.png)
-)](https://youtu.be/0fxMNs8Zm_U "First Milestone"){:target="_blank" rel="noopener"}
+[![Final Milestone]](https://youtu.be/0fxMNs8Zm_U "Final Milestone"){:target="_blank" rel="noopener"}
 
 
 # First Milestone
