@@ -5,7 +5,7 @@ This is a robot that can move in any direction without turning, which is done th
 |:--:|:--:|:--:|:--:|
 | Firstname Lastname | Current Highschool | Electrical Engineering | Incoming Senior
 
-![Headstone Image](![image](![image](https://user-images.githubusercontent.com/80085373/174335542-b26d67fc-24c5-489a-a1cc-7e24a80f6b1f.png))
+![image](https://user-images.githubusercontent.com/80085373/174335698-1507f049-18cf-488a-8a64-bbc9e877d2e4.png)
   
 # Final Milestone
 My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
