@@ -1,7 +1,7 @@
 ﻿# Mecanum Robot
 This is a robot that can move in any direction without turning, which is done through the use of wheels with rollers attached to its circumference. By attaching these rollers at a 45 degrees angle, it is able to exert forces sideways when moving forward or backward.
 
-| Engineer Name | School | Intended Major | Grade |
+| Engineer | School | Area of Interest | Grade |
 |:--:|:--:|:--:|:--:|
 | Tom Yuan | Troy High | Computer Science | Incoming Junior |
 
