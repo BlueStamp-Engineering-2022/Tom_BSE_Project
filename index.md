@@ -8,7 +8,7 @@ This is a robot that can move in any direction without turning, which is done th
 ![image](https://user-images.githubusercontent.com/80085373/174336734-d30c865d-36aa-47b0-89e3-2164e1ca4248.png ) 
 
 # Starter Project
-My starter project is a box with a lever attached. When the lever is flipped on, the box will automatically flip it back off using a mechanism.
+My starter project is a box with a lever attached. When the lever is flipped on, the box will automatically flip it back off. This is done by moving a resin blade forward, which is caused by flicking the lever on. This resin blade will then flip the lever back off.
 
 [![Starter Project](https://user-images.githubusercontent.com/80085373/174340926-96f212e0-8e64-46dc-94bf-a7bc2a2ffa8a.png))](https://youtu.be/0fxMNs8Zm_U "Starter Project")
 
