@@ -21,7 +21,8 @@ My first milestone is to create the base of my project and verify its full funct
 # Second Milestone
 My second milestone consists on three new additions: line tracking, obstacle detection, and a robotic arm. The functions line tracking and obstacle detection is made using a infrared sensor, and a ultrasonic sensor, respectively. Meanwhile, the robotic arm was created using 3D print parts, servos, a powere supply, and another arduino mega. The robotic arm is bluetooth just like the main robot, and can be controlled through the same phone. Some errors I ran into weres ones such as servos being weighted down. To fix this, I used a rubber band to help pull back the weight. Another problem I ran into in on the SoftwareSerial port of the arduino mega. This port had a poor performance and did not work properly for my project. To fix this, I swapped to a serial port instead.
 
-[![Second Milestone](https://user-images.githubusercontent.com/80085373/179801555-096d7478-7923-4532-a05f-e120397447d4.png)](https://www.youtube.com/watch?v=xqNN-ucvnP4 "Second Milestone")
+[![Second Milestone](https://user-images.githubusercontent.com/80085373/180288895-d9792f0e-f33d-4d56-9bc2-edac96f4d459.png)
+](https://www.youtube.com/watch?v=xqNN-ucvnP4 "Second Milestone")
 ![image](https://user-images.githubusercontent.com/80085373/179801665-3938e973-83ba-4e00-9279-06df6a92da18.png)
 
 
