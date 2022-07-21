@@ -5,12 +5,12 @@ This is a robot that can move in any direction without turning, which is done th
 |:--:|:--:|:--:|:--:|
 | Tom Yuan | Troy High | Computer Science | Incoming Junior |
 
-![image](https://user-images.githubusercontent.com/80085373/174336734-d30c865d-36aa-47b0-89e3-2164e1ca4248.png ) 
+![image](![image](https://user-images.githubusercontent.com/80085373/180268445-43dbc046-675e-4722-9e05-a052c56dee97.png)) 
 
 # Starter Project
 My starter project is a box with a lever attached. When the lever is flipped on, the box will automatically flip it back off. This is done by moving a resin blade forward, which is caused by flicking the lever on. This resin blade will then flip the lever back off.
 
-[![Starter Project]((https://user-images.githubusercontent.com/80085373/180266862-41689c3d-a605-43e7-9613-651e2c51c828.png))](https://youtu.be/0fxMNs8Zm_U "Starter Project")
+[![Starter Project](https://user-images.githubusercontent.com/80085373/180266862-41689c3d-a605-43e7-9613-651e2c51c828.png)](https://youtu.be/0fxMNs8Zm_U "Starter Project")
 
 # First Milestone
 My first milestone is to create the base of my project and verify its full functionality. My project is the mecanum wheels robot, which is able to move sideways using wheels. This is done by adding rollers to the wheels at a 45-degrees angle, which results in sideways forces when the wheels spin in certain ways. I tested this by adding a simple code of fixed directions to my robot. I enjoyed this project because it was mostly building, and not too much programming. Consequently, I realized that one motor was bent in my robot, which resulted in it not being to move straight. I hope to fix this next week, and add more to my robot as well.
