@@ -3,7 +3,7 @@ This is a robot that can move in any direction without turning, which is done th
 
 | Engineer | School | Area of Interest | Grade |
 |:--:|:--:|:--:|:--:|
-| Tom Yuan | Troy High | Computer Science | Incoming Junior |
+| Tom | Troy High | Computer Science | Incoming Junior |
 
 ![image](https://user-images.githubusercontent.com/80085373/180268445-43dbc046-675e-4722-9e05-a052c56dee97.png)
 
